@@ -1,12 +1,26 @@
-# React + Vite
+🎬 Movie App
+A sleek and responsive Movie App built with React (Vite), Tailwind CSS, and The Movie Database (TMDB) API. This project showcases modern frontend development practices with rich features like search, pagination, and favorites management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🔍 Search movies in real-time using TMDB API
 
-Currently, two official plugins are available:
+📄 Pagination for smooth browsing of results
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+❤️ Favorites Handling with local storage support
 
-## Expanding the ESLint configuration
+🌐 TMDB API Integration for up-to-date movie data
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Fast and optimized performance using Vite
+
+🎨 Modern UI with Tailwind CSS styling
+
+📱 Responsive Design for all devices
+
+🛠️ Tech Stack
+React + Vite
+
+Tailwind CSS
+
+TMDB API
+
+LocalStorage for persisting favorites
